@@ -2,7 +2,7 @@
 
 I'm a Computer Ingineering Student from France, at INSA Lyon [<img src="https://www.insa-lyon.fr/sites/www.insa-lyon.fr/files/logo-blanc.png" width="100" height="20">](https://www.insa-lyon.fr)
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/xT4Apo7AplrgF9ABzy/giphy.gif" width="500" height="320">
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/ZY3W96Mvat8EFTCclA/giphy.gif" width="500" height="320">
   
 🔭 I’m currently working school projects  
 🌱 I’m currently learning Python, Js, Go...  
