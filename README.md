@@ -12,6 +12,6 @@ I'm a Computer Ingineering Student from France, at INSA Lyon [<img src="https://
 **Languages and Tools:**  
 WIP
 
-📈 My GitHub Stats ![](https://visitor-badge.glitch.me/badge?page_id=mathisfchx.mathisfchx)  
+📈 My GitHub Stats   ![](https://visitor-badge.glitch.me/badge?page_id=mathisfchx.mathisfchx)  
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=mathisfchx&show_icons=true&theme=gotham" alt="mathisfchx" widht="500" height="150"/>
