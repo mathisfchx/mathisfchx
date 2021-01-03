@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello there, i'm Mathis <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/ZY3W96Mvat8EFTCclA/giphy.gif" width="300" height="200">
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/LPZMkVxnXERA5h8BVJ/giphy.gif" width="200" height="300">
   
 I'm a Computer Ingineering Student from France, at INSA Lyon [<img src="https://www.insa-lyon.fr/sites/www.insa-lyon.fr/files/logo-blanc.png" width="100" height="20">](https://www.insa-lyon.fr)
   
