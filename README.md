@@ -9,7 +9,9 @@ I'm a Computer Ingineering Student from France, at INSA Lyon [<img src="https://
 
 📫 How to reach me: mathis.faucheux@insa-lyon.fr  
 
-[comment]: #  **Languages and Tools:**  
+<!---
+ **Languages and Tools:**  
+-->
 
 📈 My GitHub Stats &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=mathisfchx.mathisfchx)
 
